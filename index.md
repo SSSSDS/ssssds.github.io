@@ -130,6 +130,7 @@ Our group has published several papers on international conferences like ISCA, D
             <span class="dot"></span>
             <span class="dot"></span>
             <span class="dot"></span>
+            <span class="dot"></span>
         </div>
         <div id="arrow">
             <img src="/assets/img/left.png" alt="" width="60" onClick="picplay(false)">

@@ -57,4 +57,3 @@ sass:
   style: compressed
 future: true
 skip_render:
-  - index.md

@@ -27,14 +27,45 @@ title: "Group Members"
                         <a href="http://faculty.hust.edu.cn/tongwei/zh_CN/index.htm">Wei Tong </a>
                         <a href="https://scholar.google.com/citations?user=fq-Go0sAAAAJ&hl=zh-CN">[Google Scholar]</a>
                     </div>
-                </td>                
+                </td>
             </tr>
         </tbody>
 </table>
 
 ## Postdoc
 
-<center>    <img style="border-radius: 0.3125em;  box-shadow: 0 2px 4px 0 rgba (34,36,38,.12),0 2px 10px 0 rgba (34,36,38,.08);"  height=200   src="https://www.hualigs.cn/image/60efc1bdc1e5f.jpg">    <br>    <a href="https://ieeexplore.ieee.org/author/37086250505">Chengning Wang</a> </center>
+<table class="memberTable" border="0" width="100%" align="center">
+    <tbody>
+        <tr>
+            <td>
+                <div align="center" style="text-align:center"><img src="https://i.loli.net/2021/07/13/fpoTxAQbPmF1MHO.jpg" height="200" width="150"></div>
+            </td>
+            <td>
+                <div align="center" style="text-align:center"><img src="https://www.hualigs.cn/image/60efc1bdc1e5f.jpg" height="200" width="150"></div>
+            </td>
+            <td>
+                <div align="center" style="text-align:center"><img src="https://i.loli.net/2021/07/15/F2qsud5GPOVeb4X.jpg" height="200" width="150"></div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div style="text-align:center">
+                    <a href="https://ieeexplore.ieee.org/author/37086029868">Bing Wu</a>
+                </div>
+            </td>
+            <td>
+                <div style="text-align:center">
+                    <a href="https://ieeexplore.ieee.org/author/37086250505">Chengning Wang</a>
+                </div>
+            </td>
+            <td>
+                <div style="text-align:center">
+                    <a href="https://ieeexplore.ieee.org/author/37086938196">Xueliang Wei</a>
+                </div>
+            </td>     
+        </tr>
+    </tbody>
+</table>
 
 ## PhD Students
 
@@ -44,34 +75,6 @@ title: "Group Members"
 
 <table class="memberTable" border="0" width="100%" align="center">
         <tbody>
-            <tr>
-                <td>
-                    <div align="center" style="text-align:center"><img src="https://i.loli.net/2021/07/13/fpoTxAQbPmF1MHO.jpg" height="200" width="150"></div>
-                </td>
-                <td>
-                    <div align="center" style="text-align:center"><img src="https://i.loli.net/2021/07/15/F2qsud5GPOVeb4X.jpg" height="200" width="150"></div>
-                </td>
-                <td>
-                    <div align="center" style="text-align:center"><img src="https://i.loli.net/2021/07/13/UkYq89X57vaKtNT.jpg" height="200" width="150"></div>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <div style="text-align:center">
-                        <a href="https://ieeexplore.ieee.org/author/37086029868">Bing Wu</a>
-                    </div>
-                </td>
-                <td>
-                    <div style="text-align:center">
-                        <a href="https://ieeexplore.ieee.org/author/37086938196">Xueliang Wei</a>
-                    </div>
-                </td>
-                <td>
-                    <div style="text-align:center">
-                        <a href="https://ieeexplore.ieee.org/author/37086836859">Hongwei Qin</a>
-                    </div>
-                </td>                 
-            </tr>
             <tr>
                 <td>
                     <div align="center" style="text-align:center border-radius:10%"><img src="https://i.loli.net/2021/07/15/qGjTK6DYeE7fgRA.jpg" height="200" width="150"></div>
@@ -160,12 +163,6 @@ title: "Group Members"
                 <td>
                     <div align="center" style="text-align:center"><img src="./assets/img/user.png" height="200" width="150"></div>
                 </td>
-				<td>
-                    <div align="center" style="text-align:center"><img src="https://www.hualigs.cn/image/60efbeb529b9f.jpg" height="200" width="150"></div>
-                </td>
-                <td>
-                    <div align="center" style="text-align:center"><img src="https://i.loli.net/2021/07/15/HpjB4oihDueQbgC.jpg" height="200" width="150"></div>
-                </td>
             </tr>
             <tr>
                 <td>
@@ -173,25 +170,23 @@ title: "Group Members"
                         <p>Yibo Liu</p>
                     </div>
                 </td>   
-                 <td>
-                    <div style="text-align:center">
-                        <p>Yu Chen</p>
-                    </div>
-                </td>
-                <td>
-                    <div style="text-align:center">
-                        <a href="https://yujinyu.site">Jinyu Yu</a>
-                    </div>
-                </td>  
             </tr>                        
         </tbody>
 </table>
 
 ### Graduated
 
+2023:
+
+> Wei Zhao (Alibaba Cloud)
+
+2022:
+
+> Jinyu Yu, Bing Wu (HUST), Xueliang Wei (HUST)
+
 2021:
 
-> Chengning Wang (HUST)
+> Chengning Wang (HUST), Hongwei Qin (Huawei)
 
 2020:
 
@@ -211,26 +206,6 @@ title: "Group Members"
 
 <table class="memberTable" border="0" width="100%">
         <tbody>
-            <tr>
-                <td>
-                    <div align="center" style="text-align:center"><img src="https://www.hualigs.cn/image/60efc62fbeb7a.jpg" height="200" width="150"></div>
-                </td>
-                <td>
-                    <div align="center" style="text-align:center"><img src="https://www.hualigs.cn/image/60efc62fd911b.jpg" height="200" width="150"></div>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <div style="text-align:center">
-                        <a href="https://gasolly.github.io/">Xufei Pan</a>
-                    </div>
-                </td>
-                <td>
-                    <div style="text-align:center">
-                        <p>Hujun Ge</p>
-                    </div>
-                </td>                   
-            </tr>
             <tr>
                 <td>
                     <div align="center" style="text-align:center"><img src="https://www.hualigs.cn/image/60efc62f1716d.jpg" height="200" width="150"></div>
@@ -339,6 +314,10 @@ title: "Group Members"
 </table>
 
 ### Graduated
+
+2023:
+
+> Hujun Ge(Alibaba Cloud), Xufei Pan(Bytedance), Pengze Lv(Bytedance)
 
 2022:
 

@@ -2,7 +2,9 @@
 title: "Wiki"
 date: 2023-05-10 20:21:30
 layout: post
-categories: Wiki
+categories:
+- Wiki
+    - WikiPages
 tags: Wiki
 ---
 

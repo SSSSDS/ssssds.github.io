@@ -173,7 +173,7 @@ Our group has published several papers on international conferences like ISCA, D
 
 
 #### **News**
-- Our paper "ODLPIM<sup>2</sup>: A Write-Optimized and Long-Lifetime ReRAM-based accelerator for online deep learning" is accepted by [DATE 2023](https://www.date-conference.com/date-2023-accepted-papers). Congratulations to [Heng Zhou]
+- Our paper "ODLPIM: A Write-Optimized and Long-Lifetime ReRAM-based accelerator for online deep learning" is accepted by [DATE 2023](https://www.date-conference.com/date-2023-accepted-papers). Congratulations to [Heng Zhou]
 - Our paper "ZNSKV: Reducing Data Migration in LSMT-Based KV Stores on ZNS SSDs" is accepted by ICCD, 2022. Congratulations to Denghui Wu.
 - Our paper "RMMIO: Enabling Reliable Memory-Mapped I/O for Persistent Memory Systems" is accepted by ICCD, 2022. Congratulations to Bo Ding.
 - Our paper "MORE<sup>2</sup>: Morphable Encryption and Encoding for Secure NVM" is accepted by [ICCAD 2021](https://iccad.com/index.php). Congratulations to [Wei Zhao](https://thiszw.top).  

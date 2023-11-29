@@ -5,9 +5,15 @@ title: "Publications"
 
 # Conference Paper
 
+## **2023**
+- **[ICCD]** **[ICON: An IR Drop Compensation Method at OU Granularity with Low Overhead for eNVM-based Accelerators]()** is accepted by ICCD, 2023. Congratulations to Jinpeng Liu.
+- **[ICCD]** **[LifetimeKV: Narrowing the Lifetime Gap of SSTs in LSMT-Based KV Stores for ZNS SSDs]()** is accepted by ICCD, 2023. Congratulations to Biyong Liu.
+- **[DATE]** **[ODLPIM: A Write-Optimized and Long-Lifetime ReRAM-based accelerator for online deep learning]()** is accepted by DATE 2023. Congratulations to Heng Zhou.
+
 ## **2022**
 - **[ICCD]** **[RMMIO: Enabling Reliable Memory-Mapped I/O for Persistent Memory Systems]()** is accepted by ICCD, 2022. Congratulations to Bo Ding.
 - **[ICCD]** **[ZNSKV: Reducing Data Migration in LSMT-Based KV Stores on ZNS SSDs]()** is accepted by ICCD, 2022. Congratulations to DengHui Wu.
+
 ## **2021**
 - **[ICCAD]** **[MORE<sup>2</sup>: Morphable Encryption and Encoding for Secure NVM]()** is accepted by 40th International Conference on Computer-Aided Design (ICCAD), 2021. (Acceptance Rate: 121/514=23.5%)
   <br/>Wei Zhao, Dan Feng, Yu Hua, Wei Tong, Jingning Liu, Jie Xu, Chunyan Li, Gaoxiang Xu and Yiran Chen.
@@ -109,7 +115,11 @@ title: "Publications"
 
 # Journal Article
 ---
-## 2022
+## **2023**
+- **[TACO]** **[SplitZNS: Towards an Efficient LSM-tree on ZNS SSDs](https://dl.acm.org/doi/10.1145/3608476)** accepted by ACM Transactions on Architecture and Code Optimization(TACO), 2023.
+<br/> Dong Huang, Dan Feng, Qiankun Liu, Bo Ding, Wei Zhao, Xueliang Wei, Wei Tong
+
+## **2022**
 - **[TCAD]** **[A Low Latency and High Endurance MLC STT-MRAM based Cache System](https://ieeexplore.ieee.org/abstract/document/9761996)** accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems(TCAD), 2022.
 <br/> Wei Zhao, Jie Xu, Xueliang Wei, Bing Wu, Chengning Wang, Weilin Zhu, Wei Tong, Dan Feng, Jingning Liu
 - **[FGCS]** **[Cora: Data correlations-based storage policies for cloud object storage](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=fq-Go0sAAAAJ&sortby=pubdate&citation_for_view=fq-Go0sAAAAJ:-FonjvnnhkoC)** accepted by Future Generation Computer Systems(FGCS), 2022.

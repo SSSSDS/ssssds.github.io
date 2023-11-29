@@ -4,8 +4,8 @@ title: "Home"
 toc: true
 url: /
 ---
-#### **Welcome to SSS&SDS Group!**
-SSS&SDS group belongs to [Data Storage and Application Lab](http://storage.hust.edu.cn/). SSS means Solid State Storage, while SDS indicates Software Defined Storage. We aim at building high performance and energy-efficient systems with emerging devices and technologies (e.g., non-volatile memories, key-value storage, solid-state drive, high performance compression, cloud object store).
+#### **Welcome to AIMS Group!**
+AIMS group belongs to [Data Storage and Application Lab](http://storage.hust.edu.cn/). AIMS refers to Advanced Intelligent Memory Systems. We aim at building high performance and energy-efficient systems with emerging devices and technologies (e.g., non-volatile memories, key-value storage, solid-state drive, high performance compression, cloud object store, and emerging NVMs).
 
 Our group has published several papers on international conferences like ISCA, DAC, DATE, ICCAD, ICPP, MSST, ICCD, LCTES, etc. as well as some top journals including IEEE TC, IEEE TCAD, IEEE T-ED, ACM TACO, ACM TODAES, JSA, etc.
 
@@ -94,7 +94,6 @@ Our group has published several papers on international conferences like ISCA, D
 
 <body>
     <!--    div#divout>(div.imgdiv>img+div.title{标题文本$})*4 +(div.dotdiv>span.dot*4)-->
-
     <div id="divout">
         <div class="imgdiv" style="display: block">
             <img src="/assets/img/league_building/2021_11_autumn.png" height="80%" width="80%" alt="">
@@ -173,7 +172,9 @@ Our group has published several papers on international conferences like ISCA, D
 
 
 #### **News**
-- Our paper "ODLPIM: A Write-Optimized and Long-Lifetime ReRAM-based accelerator for online deep learning" is accepted by [DATE 2023](https://www.date-conference.com/date-2023-accepted-papers). Congratulations to [Heng Zhou]
+- Our paper "ICON: An IR Drop Compensation Method at OU Granularity with Low Overhead for eNVM-based Accelerators" is accepted by ICCD 2023. Congratulations to Jinpeng Liu.
+- Our paper "LifetimeKV: Narrowing the Lifetime Gap of SSTs in LSMT-Based KV Stores for ZNS SSDs" is accepted by ICCD 2023. Congratulations to Biyong Liu.
+- Our paper "ODLPIM: A Write-Optimized and Long-Lifetime ReRAM-based accelerator for online deep learning" is accepted by [DATE 2023](https://www.date-conference.com/date-2023-accepted-papers). Congratulations to Heng Zhou.
 - Our paper "ZNSKV: Reducing Data Migration in LSMT-Based KV Stores on ZNS SSDs" is accepted by ICCD, 2022. Congratulations to Denghui Wu.
 - Our paper "RMMIO: Enabling Reliable Memory-Mapped I/O for Persistent Memory Systems" is accepted by ICCD, 2022. Congratulations to Bo Ding.
 - Our paper "MORE<sup>2</sup>: Morphable Encryption and Encoding for Secure NVM" is accepted by [ICCAD 2021](https://iccad.com/index.php). Congratulations to [Wei Zhao](https://thiszw.top).  

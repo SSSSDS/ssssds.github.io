@@ -1,1 +1,1 @@
-Academic pages for SSS&SDS group.
+Academic pages for AIMS group.
